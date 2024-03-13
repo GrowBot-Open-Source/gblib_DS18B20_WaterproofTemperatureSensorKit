@@ -1,1 +1,1 @@
-# TemplateLibrary
+# DS20S20 Waterproof Temperature Sensor Kit

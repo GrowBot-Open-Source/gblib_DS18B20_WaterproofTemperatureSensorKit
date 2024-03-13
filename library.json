@@ -1,8 +1,8 @@
 {
-"name": "gb_SENSORNAME",
+"name": "gb_DS20S20_WaterproofTemperatureSensorKit",
 "frameworks": "Arduino",
-"keywords": "keywords",
-"description": "Use the sensor XXXXX in the GrowBot system.",
+"keywords": "temperature, waterproof",
+"description": "Use the sensor DS20S20 WaterproofTemperatureSensorKit in the GrowBot system.",
 "authors":
 [
     {
