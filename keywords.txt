@@ -1,0 +1,2 @@
+getWaterproofTemp KEYWORD1
+gb_DS18B20_WaterproofTemperatureSensorKit KEYWORD1
