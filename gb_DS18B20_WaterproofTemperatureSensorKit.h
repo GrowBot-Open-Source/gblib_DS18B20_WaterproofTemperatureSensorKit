@@ -13,6 +13,12 @@
  * Product Links：
  *
  * Sensor driver pin：
+ * Connection:
+ * VCC-5v
+ * GND-GND
+ * SCL-SCL(analog pin 5)
+ * SDA-SDA(analog pin 4)
+ * ADD-NC
  *
  * author  :  GrowBot
  * version :  V1.0
